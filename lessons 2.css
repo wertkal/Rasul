@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+}
+.text1{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: relative;
+    left: 500px;
+}
+.block1{
+    font-size: 20px;
+    position: relative;
+    left: 130px;
+    top: 50px;
+}
+.block2{
+    position: relative;
+    left: 105px;
+    top: 60px;
+}
+.text2{
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    border-radius: 50%;
+    position: relative;
+    left: 280px;
+    bottom: 180px;
+}
+.block3{
+    font-size: 20px;
+    position: relative;
+    left: 130px;
+    top: 50px;
+}
+.block4{
+    position: relative;
+    left: 105px;
+    top: 60px;
+}
+.text3{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    position: relative;
+    left: 250px;
+    bottom: 210px;
+}
+.block5{
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.block6{
+    position: relative;
+    left: 90px;
+    top: 60px;
+}
+.text4{
+    width: 300px;
+    height: 300px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 50%;
+    position: relative;
+    left: 400px;
+    bottom: 310px;
+}
+.block7{
+    font-size: 20px;
+    position: relative;
+    left: 110px;
+    top: 100px;
+}
+.block8{
+    position: relative;
+    left: 85px;
+    top: 110px;
+}
+.text5{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(22, 7, 109);
+    color: white;
+    border-radius: 50%;
+    position: relative;
+    left: 675px;
+    bottom: 600px;
+}
+.block9{
+    font-size: 20px;
+    position: relative;
+    left: 110px;
+    top: 100px;
+}
+.block10{
+    position: relative;
+    left: 85px;
+    top: 110px;
+}
+.text6{
+    width: 400px;
+    height: 400px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    position: relative;
+    left: 520px;
+    bottom: 1250px;
+}
+.nav1{
+    position: relative;
+    left: 120px;
+    top: 150px;
+}
+.text7{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(0, 225, 255);
+    border-radius: 50%;
+    position: relative;
+    left: 780px;
+    bottom: 1850px;
+}
+.nav2{
+    font-size: 20px;
+    position: relative;
+    left: 110px;
+    top: 100px;
+}
+.nav3{
+    position: relative;
+    left: 85px;
+    top: 110px;
+}
+

@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(56, 54, 54);
+}
+.block1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(50, 76, 99);
+    color: white;
+    border-radius: 50%;
+    position: relative;
+    left: 600px;
+    top: 300px;
+    text-align: center;
+    
+}
+.block2{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 600px;
+    bottom: 200px;
+
+}
+.block3{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 390px;
+    bottom: 300px;
+}
+.block4{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 310px;
+    bottom: 285px;
+}
+.block5{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 380px;
+    bottom: 275px;
+}
+.block6{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 810px;
+    bottom: 900px;
+}
+.block7{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 880px;
+    bottom: 885px;
+}
+.block8{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 810px;
+    bottom: 875px;
+}
+.block9{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 595px;
+    bottom: 960px;
+}
+.text1{
+    position: relative;
+    top: 60px;
+}
+.text2{
+    position: relative;
+    top: 70px;
+    left: 35px;
+}
+.text3{
+    position: relative;
+    top: 70px;
+    left: 35px;
+}
+.text4{
+    position: relative;
+    top: 70px;
+    left: 35px;
+    }
+.text5{
+    position: relative;
+    top: 70px;
+    left: 35px;
+}
+.text6{
+    position: relative;
+    top: 70px;
+    left: 35px;
+}
+.text7{
+    position: relative;
+    top: 70px;
+    left: 35px;
+}
+.text8{
+    position: relative;
+    top: 70px;
+    left: 35px;
+}
+.text9{
+    position: relative;
+    top: 70px;
+    left: 35px;
+}

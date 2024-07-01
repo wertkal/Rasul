@@ -1,0 +1,504 @@
+*{
+    margin: 0;
+}
+.kala{
+    display: none;
+}
+.nav2:hover{
+    background-color: blue;
+    color: yellow;
+}
+.nav3:hover{
+    background-color: #0F73D0;
+    color: yellow;
+}
+.class:hover{
+    background-color: white;
+    color: black;
+}
+.main{
+    display: flex;
+    align-items: center;
+    position: fixed;
+    background-color: rgb(186, 229, 247);
+    width: 1350px;
+    height: 100px;
+}
+.block img{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.block1{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    width: 500px;
+}
+.block2{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    width: 300px;
+}
+.nav{
+    position: relative;
+    left: 25px;
+    top: 10px;
+}
+.nav1{
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.nav2{
+    background-color: rgb(133, 8, 133);
+    color: white;
+    padding: 5px 15px;
+    position: relative;
+    top: 1px;
+    border-radius: 5px;
+    border: 1px solid rgb(133, 8, 133);
+}
+.nav3{
+    background-color: blueviolet;
+    color: white;
+    padding: 5px 15px;
+    top: 5px;
+    border-radius: 5px;
+    border: 1px soli blueviolet;
+}
+.block3 h1{
+    margin-top: 80px;
+    margin-left: 100px;
+    font-family: sans-serif;
+}
+.block3 p{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.block3 button{
+    margin-left: 100px;
+    margin-top: 20px;
+    background-color: #0F73D0;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #0F73D0;
+    border-radius: 5px;
+}
+.text{
+    display: flex;
+    align-items: center;
+}
+.block4 img{
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 450px;
+}
+.block5{
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.block6{
+    font-size: 12px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.text1{
+    width: 250px;
+    height: 220px;
+    background-color: #FAFAFA;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.text1 h1{
+    background-color: #0F73D0;
+    color: white;
+    margin-top: 10px;
+    width: 250px;
+}
+.text1 p{
+    background-color: #0F73D0;
+    border-radius: 3px;
+    color: white;
+    width: 250px;
+}
+.text2{
+    width: 250px;
+    height: 220px;
+    background-color: #FAFAFA;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.text2 h1{
+    background-color: #6B5581;
+    color: white;
+    width: 250px;
+    margin-top: 10px;
+}
+.text2 p{
+    background-color: #6B5581;
+    border-radius: 3px;
+    width: 250px;
+    color: white;
+}
+.text3{
+    width: 250px;
+    height: 220px;
+    background-color: #FAFAFA;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.text3 h1{
+    margin-top: 15px;
+    background-color: #6B5581;
+    color: white;
+    width: 250px;
+}
+.text3 p{
+    background-color: #6B5581;
+    border-radius: 3px;
+    color: white;
+    width: 250px;
+}
+.text3 img{
+    margin-top: 30px;
+}
+.nav4{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.block7{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 250px;
+}
+.block8{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+.nav5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav6{
+    width: 200px;
+    height: 200px;
+    box-shadow: 1px 1px 10px black;
+    margin-top: 50px;
+    position: relative;
+    right:100px
+}
+.nav6 img{
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.nav6 h1{
+    margin-left: 50px;
+    padding-top: 5px;
+}
+.nav6 p{
+    text-align: center;
+    padding-top: 10px;
+}
+.nav7{
+    width: 200px;
+    height: 200px;
+    box-shadow: 1px 1px 10px black;
+    position: relative;
+    top: 25px;
+    right: 20px;
+}
+.nav7 img{
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.nav7 h1{
+    padding-left: 15px;
+}
+.nav7 p{
+    text-align: center;
+    padding-top: 10px;
+}
+.nav8{
+    width: 200px;
+    height: 200px;
+    box-shadow: 1px 1px 10px black;
+    position: relative;
+    top: 25px;
+    left: 50px;
+}
+.nav8 img{
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.nav8 h1{
+    margin-left: 50px;
+    padding-top: 5px;
+}
+.nav8 p{
+    text-align: center;
+    padding-top: 10px;
+}
+.block9{
+    margin-top: 30px;
+    text-align: center;
+}
+.nav9{
+    text-align: center;
+    margin-top: 100px;
+}
+.text4{
+    text-align: center;
+    margin-top: 50px;
+}
+.kala1{
+    width: 200px;
+    height: 200px;
+    background-color: #FAFAFA;
+    border-radius: 20px;
+}
+.kala2{
+    width: 200px;
+    height: 200px;
+    background-color: #FAFAFA;
+    border-radius: 20px;
+}
+.kala3{
+    width: 200px;
+    height: 200px;
+    background-color: #FAFAFA;
+    border-radius: 20px;
+}
+.kala4{
+    width: 200px;
+    height: 200px;
+    background-color: #FAFAFA;
+    border-radius: 20px;
+}
+.kala1 img{
+    width: 150px;
+}
+.kala1 p{
+    margin-left: 160px;
+}
+.kala2 img{
+    width: 150px;
+}
+.kala2 p{
+    margin-left: 160px;
+}
+.{
+    margin-top: 20px;
+}
+.kala3 img{
+    width: 150px;
+}
+.kala3 p{
+    margin-left: 160px;
+}
+.kala4 img{
+    width: 150px;
+}
+.kala4 p{
+    margin-left: 160px;
+}
+.kala5{
+    margin-top: 20px;
+}
+.box1{
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+    position: relative;
+    bottom: 20px;
+    right: 30px;
+}
+.box{
+    background-color: #4E4656;
+    color: white;
+    padding: 10px 20px;
+    position: relative;
+    top: 33px;
+}
+.box3{
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+    position: relative;
+    top: 16px;
+    right: 30px;
+}
+.box2{
+    background-color: #4E4656;
+    color: white;
+    padding: 10px 20px;
+    position: relative;
+    top: 70px;
+}
+.box5{
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+    position: relative;
+    bottom: 28px;
+    right: 30px;
+}
+.box4{
+    background-color: #4E4656;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 5px;
+    position: relative;
+    top: 25px;
+}
+.box7{
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+    position: relative;
+    bottom: 30px;
+    right: 30px;
+    background-color: #6B5581;
+
+}
+.box6{
+    background-color: #6B5581;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 5px;
+    position: relative;
+    top: 22px;
+}
+.main1{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+.king{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.king1{
+    margin-top: 20px;
+    padding-left: 10px;
+}
+.king2{
+    padding-left: 5px;
+}
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: #FAFAFA;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.one img{
+    width: 200px;
+}
+.two{
+    margin-left: 160px;
+}
+.three{
+    background-color: #6B5581;
+    color: white;
+    padding: 10px 20px;
+}
+.three1{
+    margin-left: 20px;
+    height: 50px;
+    margin-left: 140px;
+    position: relative;
+    bottom: 52px;
+}
+.three1 img{
+    width: 30px;
+    height: 30px;
+    margin-top: 0;
+}
+.four{
+    position: relative; 
+    bottom: 25px;
+}
+.one2{
+    width: 200px;
+    height: 200px;
+    background-color: #FAFAFA;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.one6{
+    margin-left: 35px;
+    width: 50px;
+}
+.one2 p{
+    margin-left: 155px;
+}
+.one5{
+    background-color: #4E4656;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+.main2{
+    display: flex;
+    align-items: center;
+}
+.one3{
+    width: 200px;
+    height: 200px;
+    background-color: #FAFAFA;
+    margin-top: 100px;
+    margin-left: 170px;
+}
+.one7{
+    margin-left: 160px;
+}
+.two1{
+    background-color: #4E4656;
+    color: white;
+    padding: 15px 15px;
+}
+.two2{
+    margin-left: 170px;
+    position: relative;
+    bottom: 50px;
+}
+.one4{
+    width: 200px;
+    height: 200px;
+    background-color: #FAFAFA;
+}
+.block1 a{
+    text-decoration: none;
+}
+@media (max-width:412px) {
+    .block1 p{
+        display: none;
+    }
+    .nav3{
+        display: none;
+    }
+    .block2 img{
+        display: none;
+    }
+    .block img{
+        width: 200px;
+    }
+    .nav2{
+        width: 150px;
+        height: 50px;
+        position: relative;
+        right: 100px;
+    }
+    .kala{
+        display: inline;
+        width: 50px;
+    }
+}
